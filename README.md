@@ -33,10 +33,10 @@ The voice application will have the features of
     
  ## Installation
 To setup the development environment for the project  
-    •  clone the project with git clone url to the project.
-    • cd into the voice integration project
-    • run composer install
-    • If you want to test the application, start a local dev-server with php-S localhost:8000 -t public	
+    •  clone the project with git clone url to the project.    
+    • cd into the voice integration project    
+    • run composer install    
+    • If you want to test the application, start a local dev-server with php-S localhost:8000 -t public     	
 
     
     
