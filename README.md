@@ -33,9 +33,12 @@ The voice application will have the features of
     
  ## Installation
 To setup the development environment for the project  
-    • The Ushahidi development environment will have to be setup using the instructions found here https://docs.ushahidi.com/platform-developer-documentation/getting-started/setting-up-your-development-environment   
-    • Fork the project    
-    • Next clone the repository for the platform-voice-integration project using the command git clone [url of the project]  
+    •  clone the project with git clone url to the project.
+    • cd into the voice integration project
+    • run composer install
+    • If you want to test the application, start a local dev-server with php-S localhost:8000 -t public	
+
+    
     
    ## API Reference
 * Google cloud speech-to-text which is used to transcribe the voice message by the receiver to text https://cloud.google.com/speech-to-text/  
@@ -48,7 +51,7 @@ If you are interested in contributing to the project  .
     • Clone and  fork the project.
   
   ## Authors
-  * Jenniline Ebai - *initial work 
+  * Jenniline Ebai - initial work 
   
   
    
